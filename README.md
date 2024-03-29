@@ -1,5 +1,10 @@
-# Unintended Bias Detection and Mitigation in Misogynous Memes
+# Unlearning Stereotypes: Detection and Mitigation of Unintended Bias in Misogynous Memes
 
 ### Proposed paper code:
 
-```MAMI_final.py```
+```machine_unlearning.py```
+
+### Package Requirements
+transformers\==4.30.2 \
+clip\==1.1.0
+
